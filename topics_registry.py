@@ -6,6 +6,7 @@
         "tags": [],
         "origins": []
     },
+
 '''
 
 TOPICS = {
@@ -16,7 +17,7 @@ TOPICS = {
         "name": "Christianity",
         "description": "Monothistic religion focused around a Holy God and his bastard son Jesus Christ",
         "tags": ["religion", "anthropology", "colonism"],
-        "origins": "roman judea"
+        "origins": ["roman judea"]
     },
 
     "shamanism": {
@@ -30,16 +31,44 @@ TOPICS = {
         "name": "Shinto (神道)",
         "description": "A polytheistic and animistic religion that revolves around supernatural entities called kami (神)",
         "tags": ["religion", "anthropology"],
-        "origins": "japan"
+        "origins": ["japan"]
     },
 
     # WRITTEN LANGUAGE
 
     "hangul": {
-        "name": "Hangul",
+        "name": "Hangul (한글)",
         "description": "The Korean writing system",
         "tags": ["language", "writing"],
         "origins": ["korean"]
+    },
+
+    "hanja": {
+        "name": "Hanja (漢字)",
+        "description": "Logographic Chinese characters adopted into the Korean alphabet",
+        "tags": ["language", "writing"],
+        "origins": ["korean"]
+    },
+
+    "hiragana": {
+        "name": "Hiragna (ひらがな)",
+        "description": "A fundamental phonetic script used in Japanese consisting of simple, curved characters that represent single syllables",
+        "tags": ["language", "writing"],
+        "origins": ["japanese"]
+    },
+
+    "katakana": {
+        "name": "Katakana (カタカナ)",
+        "description": "A fundamental phonetic script used in Japanese consisting of sharp, angled characters representing single syllables; often used for foreign words",
+        "tags": ["language", "writing"],
+        "origins": ["japanese"]
+    },
+
+    "kanji": {
+        "name": "Kanji (漢字)",
+        "description": "Logographic Chinese Characters adopted into the Japanese alphabet",
+        "tags": ["language", "writing"],
+        "origins": ["japanese"]
     },
 
     # SPOKEN LANGUAGE
