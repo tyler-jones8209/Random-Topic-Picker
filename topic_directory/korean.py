@@ -1,6 +1,6 @@
 TREE = {
     "Religion": {
-        "shamanism": {},
+        "korean shamanism": {},
         "christianity": {}
     },
     "Language": {

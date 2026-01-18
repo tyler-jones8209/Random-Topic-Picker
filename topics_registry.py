@@ -20,10 +20,10 @@ TOPICS = {
         "origins": ["roman judea"]
     },
 
-    "shamanism": {
-        "name": "Shamanism",
-        "description": "Animistic religious practices involving spirit communication",
-        "tags": ["religion", "anthropology"],
+    "korean shamanism": {
+        "name": "Korean Shamanism (Musok/무속/巫俗)",
+        "description": "A polytheistic and animistic religion, Musok revolves around deities and ancestral spirits",
+        "tags": ["religion", "anthropology", "polytheism", "animism"],
         "origins": ["korean", "siberian"]
     },
 
