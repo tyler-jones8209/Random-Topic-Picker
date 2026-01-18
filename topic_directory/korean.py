@@ -6,6 +6,6 @@ TREE = {
     "Language": {
         "hangul": {},
         "hanja": {},
-        "hanguego": {}
+        "hangugeo": {}
     }
 }
