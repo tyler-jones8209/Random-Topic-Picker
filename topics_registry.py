@@ -101,10 +101,34 @@ TOPICS = {
 
     # SPOKEN LANGUAGE
 
-        "hangugeo": {
+    "hangugeo": {
         "name": "Hangugeo (한국어)",
         "description": "A term used in Korea to represent the Korean language as a whole",
         "tags": ["language", "speaking"],
         "origins": ["korean"]
     },
+
+    # MUSICAL INSTRUMENTS
+
+    "shamisen": {
+        "name": "Shamisen (三味線)",
+        "description": "A three-stringed, fretless Japanese lute derived from the Chinese Sanxian (三弦)",
+        "tags": ["instrument", "lute", "music"],
+        "origins": ["japanese"]
+    },
+
+    "gayageum": {
+        "name": "Gayageum (가야금)",
+        "description": "A traditional Korean zither with 12 or more strings",
+        "tags": ["instrument", "zither", "music"],
+        "origins": ["korean"]
+    },
+
+    "hardanger fiddle": {
+        "name": "Hardanger Fiddle (Hardingfele)",
+        "description": "A fiddle consisting of eight strings, four bowed and four sympathetic, that is considered Norway's national instrument",
+        "tags": ["instrument", "fiddle", "music"],
+        "origins": ["norwegian"]
+    }, 
+
 }

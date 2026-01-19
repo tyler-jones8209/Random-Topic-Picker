@@ -7,5 +7,8 @@ TREE = {
         "hiragana": {},
         "katakana": {},
         "kanji": {}
+    },
+    "Music": {
+        "shamisen": {},
     }
 }

@@ -6,5 +6,9 @@ TREE = {
     "Language": {
         "bokmal": {},
         "nynorsk": {},
+    },
+    "Music": {
+        "hardanger fiddle": {},
     }
+
 }

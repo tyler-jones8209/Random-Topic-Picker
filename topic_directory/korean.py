@@ -7,5 +7,8 @@ TREE = {
         "hangul": {},
         "hanja": {},
         "hangugeo": {}
+    },
+    "Music": {
+        "gayageum": {},
     }
 }
