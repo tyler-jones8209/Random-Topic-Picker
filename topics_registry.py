@@ -16,7 +16,7 @@ TOPICS = {
     "christianity": {
         "name": "Christianity",
         "description": "Monothistic religion focused around a Holy God and his bastard son Jesus Christ",
-        "tags": ["religion", "anthropology", "colonism"],
+        "tags": ["religion", "anthropology", "colonialism"],
         "origins": ["roman judea"]
     },
 
@@ -49,6 +49,13 @@ TOPICS = {
     },
 
     # WRITTEN LANGUAGE
+
+    "lang101": {
+        "name": "LANG101",
+        "description": "You have to practice this language for 30 minutes",
+        "tags": ["language", "speaking", "writing", "reading"],
+        "origins": ["N/A"]
+    },
 
     "bokmal": {
         "name": "Bokmål",
@@ -106,6 +113,15 @@ TOPICS = {
         "description": "A term used in Korea to represent the Korean language as a whole",
         "tags": ["language", "speaking"],
         "origins": ["korean"]
+    },
+
+    # MUSIC
+
+    "mus101": {
+        "name": "MUS101",
+        "description": "Find a playlist of music in this language and listen to it for the entire day",
+        "tags": ["music", "listening"],
+        "origins": ["N/A"]
     },
 
     # MUSICAL INSTRUMENTS
