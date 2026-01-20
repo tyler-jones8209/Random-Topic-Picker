@@ -34,6 +34,13 @@ TOPICS = {
         "origins": ["japan"]
     },
 
+    "sukyo mahikari": {
+        "name": "Sukyo Mahikari (崇教真光)",
+        "description": "A polytheistic and animistic religion that stemmed from the Mahikari movement and revolves around peace and healing with light",
+        "tags": ["religion", "anthropology", "cult"],
+        "origins": ["japan"]
+    },
+
     "norse paganism": {
         "name": "Norse Paganism (Åsatru)",
         "description": "A polytheistic religion centered around gods like Odin and Tyr and creation myths involving giants and realms",

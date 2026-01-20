@@ -2,6 +2,7 @@ TREE = {
     "Religion": {
         "christianity": {},
         "shinto": {},
+        "sukyo mahikari": {}
     },
     "Language": {
         "lang101": {},
