@@ -55,6 +55,21 @@ TOPICS = {
         "origins": ["norway", "russia"]
     },
 
+    "aztec religion": {
+        "name": "Aztec Religion",
+        "description": "A polytheistic and animistic religion with Mesoamerican roots that's centered on appeasing deities and keeping a cosmic balance",
+        "tags": ["religion", "anthropology", "polytheism", "animism"],
+        "origins": ["mexico", "mexihco"]
+    },
+
+    "maya religion": {
+        "name": "Maya Religion",
+        "description": "A polytheistic and animistic religion with Mesoamerican roots that's centered on appeasing deities and keeping a cosmic balance",
+        "tags": ["religion", "anthropology", "polytheism", "animism"],
+        "origins": ["mexico", "yucatan"]
+    },
+
+
     # WRITTEN LANGUAGE
 
     "lang101": {
@@ -113,6 +128,13 @@ TOPICS = {
         "origins": ["japanese"]
     },
 
+    "spanish diacritics": {
+        "name": "Spanish Diacritics (Acento Diacrítico)",
+        "description": "Accent markers used in the Spanish language to denote syllable stress/pitch or to differentiate homophones",
+        "tags": ["language", "writing"],
+        "origins": ["spanish"]
+    },
+
     # SPOKEN LANGUAGE
 
     "hangugeo": {
@@ -153,5 +175,19 @@ TOPICS = {
         "tags": ["instrument", "fiddle", "music"],
         "origins": ["norwegian"]
     }, 
+
+    "requinto guitar": {
+        "name": "Requinto Guitar (Requinto)",
+        "description": "A scaled-down classical guitar used in many Latin American and Spanish genres of music (Boleros and Corridos to name a few)",
+        "tags": ["instrument", "guitar", "music"],
+        "origins": ["mexico", "spain"]   
+    },
+
+    "vihuela": {
+        "name": "Vihuela",
+        "description": "A small, lute-esque guitar with 5-6 nylon strings heavily used in Mariachi music",
+        "tags": ["instrument", "guitar", "music"],
+        "origins": ["mexico", "spain"]   
+    },
 
 }
